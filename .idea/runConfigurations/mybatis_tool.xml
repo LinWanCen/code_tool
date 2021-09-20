@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="mybatis_tool" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="code_tools" />
+    <working_directory value="$PROJECT_DIR$/mybatis_tool/main" />
+    <go_parameters value="-o mybatis_tool.exe" />
+    <parameters value="D:\IT\DEV\WorkSpace\work\group-syzh\szyh\szyh" />
+    <kind value="PACKAGE" />
+    <filePath value="$PROJECT_DIR$/mybatis_tool/main/main.go" />
+    <package value="code_tools/mybatis_tool/main" />
+    <output_directory value="$PROJECT_DIR$/../../bin" />
+    <method v="2" />
+  </configuration>
+</component>

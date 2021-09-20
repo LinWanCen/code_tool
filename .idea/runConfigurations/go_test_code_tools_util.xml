@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go test code_tools/util" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+    <module name="code_tools" />
+    <working_directory value="$PROJECT_DIR$/util" />
+    <kind value="PACKAGE" />
+    <package value="code_tools/util" />
+    <directory value="$PROJECT_DIR$/" />
+    <filePath value="$PROJECT_DIR$/" />
+    <framework value="gotest" />
+    <method v="2" />
+  </configuration>
+</component>
